@@ -14,7 +14,7 @@
 	<name>stayclassy</name>
 	<description>Hotel Booking web application</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>10</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
