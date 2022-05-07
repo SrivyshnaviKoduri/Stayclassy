@@ -4,4 +4,5 @@
 *.idea
 *.xml
 *.iml
+*.class
 /target
