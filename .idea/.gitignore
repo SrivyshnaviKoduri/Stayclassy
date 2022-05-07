@@ -5,4 +5,4 @@
 *.xml
 *.iml
 *.class
-/target
+*/target/**
